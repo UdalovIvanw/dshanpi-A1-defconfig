@@ -11,8 +11,8 @@ U-Boot defconfigs for the **100ASK DshanPi A1** (Rockchip RK3576) board.
 
 ## Requirements
 
-- U-Boot source tree with the `rk3576-100ask-dshanpi-a1` device tree (upstream U-Boot) [specify version, e.g. 2026.10]
-- Rockchip binaries from [rkbin](https://github.com/rockchip-linux/rkbin): TPL (DDR init) `[version, e.g. v1.03]` and BL31
+- U-Boot source tree with the `rk3576-100ask-dshanpi-a1` device tree (upstream U-Boot)
+- Rockchip binaries from [rkbin](https://github.com/rockchip-linux/rkbin): TPL (DDR init) and BL31
 - AArch64 cross-toolchain (e.g. `aarch64-linux-gnu-`)
 
 ## Build
